@@ -1,5 +1,5 @@
 # Extract-part-of-sequence-in-FASTA-format
-Extracting part of the sequence is not an easy when you have big fasta file with 95% BLASTN match for your target sequence start from 3048 up to 3099. Regardless your operating system, here a python can be edit in all OS. 
+Extracting part of the sequence is not an easy when you have big fasta file with 95% BLASTN match for your target sequence start from 6052 up to 7916. Regardless your operating system, here a python can be edit in all OS. 
 
 # How to start ? 
 You need the following : 
@@ -10,7 +10,7 @@ You need the following :
 
 2 - Get the range of your target sequence start from xxxx and end to xxxx.
 
-//Thia is (([6052:7916]) replace it with your range in below python code 
+//Thia is example (([6052:7916]) replace it with your range in below python code 
 
 3 - Create new file results.fasta in order to get your target sequence.
 
