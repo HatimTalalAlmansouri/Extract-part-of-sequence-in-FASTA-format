@@ -31,3 +31,5 @@ myseqopen = open("CREATE_EMPTY_FILE.fasta","w")
 
 myseqopen.write(seqRange)
 
+
+# Case study usage -- Updating soon 
