@@ -27,7 +27,7 @@ dnaread = mydoc.read()
 
 seqRange = dnaread[6052:7916]
 
-cifseqopen = open("CREATE_EMPTY_FILE.fasta","w")
+myseqopen = open("CREATE_EMPTY_FILE.fasta","w")
 
-cifseqopen.write(seqRange)
+myseqopen.write(seqRange)
 
