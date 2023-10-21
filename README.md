@@ -3,7 +3,9 @@ Extracting part of the sequence is not an easy when you have big fasta file with
 
 # How to start ? 
 You need the following : 
+
 1 - Fasta file has the full sequence and your target sequence is part of it. // this is ((YOUR_FASTA_FILE.fasta)) in below python code 
+
 mydoc =  open("YOUR_FASTA_FILE.fasta")
 dnaread = mydoc.read()
 seqRange = dnaread[367052:377918]
